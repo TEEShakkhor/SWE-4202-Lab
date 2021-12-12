@@ -1,0 +1,11 @@
+C:\Users\ROG\source\repos\Library Management\Library Management\obj\Debug\Library Management.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Library Management\Library Management\obj\Debug\Library Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\source\repos\Library Management\Library Management\obj\Debug\Library_Management.Library_Management.resources
+C:\Users\ROG\source\repos\Library Management\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+C:\Users\ROG\source\repos\Library Management\Library Management\obj\Debug\Library Management.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\Library Management\Library Management\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Library Management\Library Management\bin\Debug\Library Management.exe.config
+C:\Users\ROG\source\repos\Library Management\Library Management\bin\Debug\Library Management.exe
+C:\Users\ROG\source\repos\Library Management\Library Management\bin\Debug\Library Management.pdb
+C:\Users\ROG\source\repos\Library Management\Library Management\obj\Debug\Library Management.exe
+C:\Users\ROG\source\repos\Library Management\Library Management\obj\Debug\Library Management.pdb
