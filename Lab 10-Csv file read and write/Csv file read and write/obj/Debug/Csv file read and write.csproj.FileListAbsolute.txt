@@ -1,0 +1,22 @@
+D:\Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.csproj.AssemblyReference.cache
+D:\Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.csproj.SuggestedBindingRedirects.cache
+D:\Csv file read and write\Csv file read and write\obj\Debug\Csv_file_read_and_write.Form1.resources
+D:\Csv file read and write\Csv file read and write\obj\Debug\Csv_file_read_and_write.Properties.Resources.resources
+D:\Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.csproj.GenerateResource.cache
+D:\Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.csproj.CoreCompileInputs.cache
+D:\Csv file read and write\Csv file read and write\bin\Debug\Csv file read and write.exe.config
+D:\Csv file read and write\Csv file read and write\bin\Debug\Csv file read and write.exe
+D:\Csv file read and write\Csv file read and write\bin\Debug\Csv file read and write.pdb
+D:\Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.exe
+D:\Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.pdb
+D:\SWE Lab\Lab 10-Csv file read and write\Csv file read and write\bin\Debug\Csv file read and write.exe.config
+D:\SWE Lab\Lab 10-Csv file read and write\Csv file read and write\bin\Debug\Csv file read and write.exe
+D:\SWE Lab\Lab 10-Csv file read and write\Csv file read and write\bin\Debug\Csv file read and write.pdb
+D:\SWE Lab\Lab 10-Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.csproj.AssemblyReference.cache
+D:\SWE Lab\Lab 10-Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.csproj.SuggestedBindingRedirects.cache
+D:\SWE Lab\Lab 10-Csv file read and write\Csv file read and write\obj\Debug\Csv_file_read_and_write.Form1.resources
+D:\SWE Lab\Lab 10-Csv file read and write\Csv file read and write\obj\Debug\Csv_file_read_and_write.Properties.Resources.resources
+D:\SWE Lab\Lab 10-Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.csproj.GenerateResource.cache
+D:\SWE Lab\Lab 10-Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.csproj.CoreCompileInputs.cache
+D:\SWE Lab\Lab 10-Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.exe
+D:\SWE Lab\Lab 10-Csv file read and write\Csv file read and write\obj\Debug\Csv file read and write.pdb
