@@ -1,0 +1,11 @@
+D:\SWE Lab\Lab 11-Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+D:\SWE Lab\Lab 11-Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+D:\SWE Lab\Lab 11-Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+D:\SWE Lab\Lab 11-Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.AssemblyReference.cache
+D:\SWE Lab\Lab 11-Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.SuggestedBindingRedirects.cache
+D:\SWE Lab\Lab 11-Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+D:\SWE Lab\Lab 11-Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\SWE Lab\Lab 11-Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+D:\SWE Lab\Lab 11-Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\SWE Lab\Lab 11-Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+D:\SWE Lab\Lab 11-Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
