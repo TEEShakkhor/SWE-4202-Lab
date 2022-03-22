@@ -1,0 +1,22 @@
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\bin\Debug\LaundryManagementSystem.exe.config
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\bin\Debug\LaundryManagementSystem.exe
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\bin\Debug\LaundryManagementSystem.pdb
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.Form1.resources
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.exe
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.pdb
+D:\SWE Lab\Lab 4\Laundry Management System\bin\Debug\LaundryManagementSystem.exe.config
+D:\SWE Lab\Lab 4\Laundry Management System\bin\Debug\LaundryManagementSystem.exe
+D:\SWE Lab\Lab 4\Laundry Management System\bin\Debug\LaundryManagementSystem.pdb
+D:\SWE Lab\Lab 4\Laundry Management System\obj\Debug\LaundryManagementSystem.csproj.AssemblyReference.cache
+D:\SWE Lab\Lab 4\Laundry Management System\obj\Debug\LaundryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\SWE Lab\Lab 4\Laundry Management System\obj\Debug\LaundryManagementSystem.Form1.resources
+D:\SWE Lab\Lab 4\Laundry Management System\obj\Debug\LaundryManagementSystem.Properties.Resources.resources
+D:\SWE Lab\Lab 4\Laundry Management System\obj\Debug\LaundryManagementSystem.csproj.GenerateResource.cache
+D:\SWE Lab\Lab 4\Laundry Management System\obj\Debug\LaundryManagementSystem.csproj.CoreCompileInputs.cache
+D:\SWE Lab\Lab 4\Laundry Management System\obj\Debug\LaundryManagementSystem.exe
+D:\SWE Lab\Lab 4\Laundry Management System\obj\Debug\LaundryManagementSystem.pdb
