@@ -1,0 +1,11 @@
+D:\SWE Lab\Lab 7-Enrollment\Student Enrollment\bin\Debug\Student Enrollment.exe.config
+D:\SWE Lab\Lab 7-Enrollment\Student Enrollment\bin\Debug\Student Enrollment.exe
+D:\SWE Lab\Lab 7-Enrollment\Student Enrollment\bin\Debug\Student Enrollment.pdb
+D:\SWE Lab\Lab 7-Enrollment\Student Enrollment\obj\Debug\Student Enrollment.csproj.AssemblyReference.cache
+D:\SWE Lab\Lab 7-Enrollment\Student Enrollment\obj\Debug\Student Enrollment.csproj.SuggestedBindingRedirects.cache
+D:\SWE Lab\Lab 7-Enrollment\Student Enrollment\obj\Debug\Student_Enrollment.Form1.resources
+D:\SWE Lab\Lab 7-Enrollment\Student Enrollment\obj\Debug\Student_Enrollment.Properties.Resources.resources
+D:\SWE Lab\Lab 7-Enrollment\Student Enrollment\obj\Debug\Student Enrollment.csproj.GenerateResource.cache
+D:\SWE Lab\Lab 7-Enrollment\Student Enrollment\obj\Debug\Student Enrollment.csproj.CoreCompileInputs.cache
+D:\SWE Lab\Lab 7-Enrollment\Student Enrollment\obj\Debug\Student Enrollment.exe
+D:\SWE Lab\Lab 7-Enrollment\Student Enrollment\obj\Debug\Student Enrollment.pdb
