@@ -1,0 +1,11 @@
+E:\Visual Studio Lab\CarRental_Dependencies\bin\Debug\CarRental_Dependencies.dll
+E:\Visual Studio Lab\CarRental_Dependencies\bin\Debug\CarRental_Dependencies.pdb
+E:\Visual Studio Lab\CarRental_Dependencies\obj\Debug\CarRentalDependencies.csproj.AssemblyReference.cache
+E:\Visual Studio Lab\CarRental_Dependencies\obj\Debug\CarRentalDependencies.csproj.CoreCompileInputs.cache
+E:\Visual Studio Lab\CarRental_Dependencies\obj\Debug\CarRental_Dependencies.dll
+E:\Visual Studio Lab\CarRental_Dependencies\obj\Debug\CarRental_Dependencies.pdb
+H:\Visual Studio Lab\CarRental_Dependencies\bin\Debug\CarRental_Dependencies.dll
+H:\Visual Studio Lab\CarRental_Dependencies\bin\Debug\CarRental_Dependencies.pdb
+H:\Visual Studio Lab\CarRental_Dependencies\obj\Debug\CarRentalDependencies.csproj.CoreCompileInputs.cache
+H:\Visual Studio Lab\CarRental_Dependencies\obj\Debug\CarRental_Dependencies.dll
+H:\Visual Studio Lab\CarRental_Dependencies\obj\Debug\CarRental_Dependencies.pdb
