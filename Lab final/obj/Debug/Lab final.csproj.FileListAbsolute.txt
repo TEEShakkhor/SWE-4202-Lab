@@ -1,0 +1,11 @@
+D:\SWE Lab\Lab final\bin\Debug\Lab final.exe.config
+D:\SWE Lab\Lab final\bin\Debug\Lab final.exe
+D:\SWE Lab\Lab final\bin\Debug\Lab final.pdb
+D:\SWE Lab\Lab final\obj\Debug\Lab final.csproj.AssemblyReference.cache
+D:\SWE Lab\Lab final\obj\Debug\Lab final.csproj.SuggestedBindingRedirects.cache
+D:\SWE Lab\Lab final\obj\Debug\Lab_final.Form1.resources
+D:\SWE Lab\Lab final\obj\Debug\Lab_final.Properties.Resources.resources
+D:\SWE Lab\Lab final\obj\Debug\Lab final.csproj.GenerateResource.cache
+D:\SWE Lab\Lab final\obj\Debug\Lab final.csproj.CoreCompileInputs.cache
+D:\SWE Lab\Lab final\obj\Debug\Lab final.exe
+D:\SWE Lab\Lab final\obj\Debug\Lab final.pdb
